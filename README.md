@@ -49,6 +49,8 @@
 
 4) Video
 
+https://youtu.be/eQzSowvh5YY
+
 5) Conclusiones
 
 Para la realización de este informe fue importante entender el uso de aplicaciones complejas al igual sus operaciones. Cabe recalcar el uso y entendimiento de las conversiones de estas es muy importante para la resolución de los ejercicios planteados en la tarea.
